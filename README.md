@@ -12,4 +12,4 @@ Pesona Simarasok is a project-based learning initiative developed by Politeknik 
 
 *Title:*  
 This website is copyrighted by the Government of the Republic of Indonesia, Ministry of Law and Human Rights.  
-You can access the copyright details here: [Link to copyright]([https://drive.google.com/drive/u/0/folders/1JG8Cw2h7nk8cbfo8uENoUHlpe-nri0s0](https://drive.google.com/file/d/1t4tLOknxbS3c5HVNKF1nyOy-rjP41WUl/view?usp=sharing)
+You can access the copyright details here: [Link to copyright](https://drive.google.com/file/d/1t4tLOknxbS3c5HVNKF1nyOy-rjP41WUl/view?usp=sharing)
