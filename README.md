@@ -3,9 +3,9 @@
 *Description:*  
 Pesona Simarasok is a project-based learning initiative developed by Politeknik Negeri Padang using Laravel, MySQL, and Bootstrap UI. This website is created by:
 
-- Roni Putra
-- Deni Satria
--  Firman Ardiansyah
+- Roni Putra, S.Kom., M.T.
+- Deni Satria, S.Kom., M.Kom
+- Firman Ardiansyah
 - Baghaztra Van Rill
 - Ibrahim Risyad
 - Sakinah Rahmawati
