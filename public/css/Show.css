@@ -1,0 +1,47 @@
+        .carousel-inner {
+            position: relative;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .carousel-item {
+            position: relative;
+            white-space: nowrap;
+            width: 100%;
+            transition: transform 0.1s ease-in-out;
+        }
+
+        .carousel-item.active,
+        .carousel-item-next,
+        .carousel-item-prev {
+            display: block;
+        }
+
+        .video-container {
+            position: relative;
+            width: 100%;
+            overflow: hidden;
+            padding-top: 56.25%;
+            /* 16:9 Aspect Ratio */
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+        @media (max-width: 768px) {
+            .hero-wrap, .overlay {
+                height: 50px !important;
+                background-color: rgb(255, 255, 255) !important;
+                padding: 5px;
+                margin-top: -60px;
+            }
+            .overlay {
+                padding: 5px;
+                color: white !important;
+            }
+        }
