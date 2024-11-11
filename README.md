@@ -5,7 +5,7 @@ Pesona Simarasok is a project-based learning initiative developed by Politeknik 
 
 - Roni Putra, S.Kom., M.T.
 - Deni Satria, S.Kom., M.Kom
-- Meri Azmi S.T., M.Cs
+- Meri Azmi ST., M.Cs
 - Firman Ardiansyah
 - Baghaztra Van Rill
 - Ibrahim Risyad
